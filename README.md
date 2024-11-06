@@ -1,9 +1,9 @@
 - 👋 Hi,
-- eine Komponenten:
+- meine Komponenten:
 - PV: 2x Growatt SPH 10000 TL3 BH-UP, EASTRON SDM630 v3
 - Speicher: 2x Growatt ARK HV 25.6KWh
 - Wallbox: ge-e Gemini 11KW
-- EV: Fiat 500E 42KWh
+- EV: Mini Cooper SE
 - EV: Kia eSoul 39KWh
 - 🌱
 - 💞️ 
